@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频解析下载"
+  short_description: "解析并下载抖音、哔哩哔哩、小红书和快手的公开单视频，返回文案与本地 MP4 文件"
+  default_prompt: "使用 $video-download 解析这个公开视频链接并下载 MP4。"
